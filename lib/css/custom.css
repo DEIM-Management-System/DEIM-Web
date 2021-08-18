@@ -1,0 +1,670 @@
+/*!
+ * Start Bootstrap - Blog Post (https://startbootstrap.com/template-overviews/blog-post)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-post/blob/master/LICENSE)
+ */
+
+body {
+	background-color: #f4f9fd;
+}
+
+@media (orientation: landscape) {
+  body {
+  	padding-top: 54px;
+		font-size: 11pt;
+  }
+
+	.session-table > table {
+		width: 100%;
+	}
+}
+
+@media (orientation: portrait) and (min-width: 800px) {
+  body {
+    padding-top: 56px;
+		font-size: 11pt;
+  }
+
+	.session-table > table {
+		width: 100%;
+	}
+}
+
+@media (orientation: portrait) and (max-width: 800px) {
+  body {
+    padding-top: 56px;
+		font-size: 11pt;
+  }
+
+	.session-table > table {
+		width: 280%;
+	}
+}
+
+.press_header {
+	border-bottom: 3px black solid;
+	margin-top: 10mm;
+	margin-bottom: 10mm;
+	height: 150px;
+}
+.press_header > div {
+	text-align: center;
+	margin: 0px auto;
+}
+
+.press_header > div > span {
+	font-size: 36pt;
+	font-weight: bold;
+	text-align: center;
+	margin: 0px 2em;
+}
+
+.press_header > div::before {
+	content: url(../../img/press/deim_logo.png);
+	height: 100px;
+}
+.press_header > div::after {
+	content: url(../../img/press/nii_logo.png);
+	height: 100px;
+}
+
+.press_shomei {
+	text-align: right;
+	font-size: 15pt;
+	margin-bottom: 10mm;
+}
+.press_shomei ul {
+	list-style-type: none;
+}
+
+.press_title {
+	border-bottom: solid 5px #00008b;
+	border-right: solid 5px #00008b;
+	font-size: 20pt;
+	padding-left: 20px;
+}
+
+.press_box {
+	border: 2px grey solid;
+	font-size: 15pt;
+	padding: 10px;
+	margin-bottom: 10mm;
+}
+.press_box > p {
+	margin: 0px;
+	text-indent: 1em;
+}
+
+.no-indent {
+	text-indent: 0px !important;
+}
+
+.press_content {
+	font-size: 15pt;
+	padding: 5px;
+	margin-bottom: 10mm;
+}
+.press_content > p {
+	margin: 0px;
+	text-indent: 1em;
+}
+
+.press_conf {
+	font-size: 15pt;
+	font-weight: bold;
+	padding-left: 5px;
+	margin-bottom: 10mm;
+}
+.press_conf ul {
+	padding: 0px;
+	list-style-type: none;
+}
+
+.press_imgs {
+	text-align: center;
+	margin-bottom: 10mm;
+}
+.press_imgs img {
+	width: 350px;
+	border: 1px black solid;
+	margin: 0px 10px;
+}
+.press_caption {
+	font-size: 14pt;
+	margin-bottom: 15px;
+}
+
+.press_inquery ul {
+	list-style-type: none;
+	font-size: 12pt;
+}
+
+.press_fotter {
+	margin-top: 15px;
+	border-top: solid 20px #00008b;
+	padding-top: 10px;
+}
+.press_fotter .col-sm-6:nth-child(1) {
+	text-align: left;
+}
+.press_fotter .col-sm-6:nth-child(2) {
+	text-align: right;
+}
+.press_fotter ul {
+	list-style-type: none;
+	font-size: 12pt;
+	padding: 0px;
+}
+
+
+.banquet {
+	background: -webkit-linear-gradient(0deg, #40E0D0, #FF8C00, #FF0080);
+  -webkit-background-clip: text;//テキストでくり抜く
+  background-clip: text;//テキストでくり抜く
+	-webkit-text-fill-color: transparent;
+	color: transparent;
+}
+
+.twitter_emb {
+	height: 500px;
+	overflow: scroll;
+	font-size: 11pt;
+}
+
+.news {
+	height: 500px;
+	overflow: scroll;
+}
+
+.modal-dialog {
+	width: 80%;
+	max-width: 80%;
+}
+
+.modal-body {
+	padding: 20px 60px;
+}
+
+a {
+	color: #25795a;
+}
+a:hover {
+	color: #25795a;
+}
+
+.shusai_logo {
+	width: 100%;
+	margin: 10px 0px ;
+}
+
+.kyosan_logo {
+	width: 100%;
+	margin: 10px 0px ;
+}
+
+#center .row {
+	font-size: 10pt;
+}
+
+#toppage{
+	display: flex;
+	flex-flow: row wrap;
+}
+#toppage #schedule{order:1}
+#toppage #center{order:2}
+#toppage #news{order:3}
+@media (max-width: 992px){
+	#toppage #news{order:1}
+	#toppage #center{order:2}
+	#toppage #schedule{order:3}
+}
+
+#news ul {
+	margin-left: -5mm;
+}
+
+#report ul {
+	margin-left: -5mm;
+}
+
+.navbar{
+	background-color: #48555f;
+}
+.navbar-dark .navbar-nav .nav-link {
+	color: yellow;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+	color: yellow;
+ }
+
+.dropdown-menu {
+	background-color: #5f7281;
+}
+.dropdown-item {
+	color: white;
+}
+
+.itemize > li {
+	font-size: 12pt;
+}
+
+.py-5{
+	margin-top: 40px;
+	background-color: #48555f;
+	font-size: 15pt;
+}
+
+.card-header{
+	font-size: 13pt;
+	background-color: #7190a7;
+	color: white;
+}
+
+.card-body{
+	padding: 10px 1.25rem ;
+	vertical-align: middle;
+	font-size: 11pt;
+}
+
+.sub-card{
+	margin-bottom: 0;
+}
+
+.badge{
+	float:right;
+	display: inline-block;
+	background-color: #fd9;
+	border-radius: 10px;
+	padding: 5px 7px;
+	text-align: center;
+	line-height: 125%;
+	font-size: 11pt;
+}
+
+.badge_passed{
+	float:right;
+	display: inline-block;
+	background-color: #ccc;
+	border-radius: 10px;
+	padding: 5px 7px;
+	text-align: center;
+	line-height: 125%;
+	font-size: 11pt;
+}
+
+.sign{
+	color: red;
+}
+
+.emergent{
+	text-align: center;
+	font-size: 15pt;
+}
+
+.emergent > a {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.logo{
+	width: 100%;
+}
+
+.title-panel{
+	text-align: center;
+	font-size: 15pt;
+}
+
+.title{
+	margin-top: 30px;
+	font-size: 120%;
+}
+
+.subtitle{
+	margin-top: 5px;
+	font-size: 110%;
+}
+
+.section-header{
+	margin-top: 20px;
+	font-size: 13pt;
+	padding: 5px 10px;
+	background-color: #92b1c9;
+	color: white;
+}
+
+.section-back {
+	background-color: white;
+	margin: 0px;
+	padding: 12px 20px;
+}
+
+.section-back > ul{
+	margin-bottom: 0;
+}
+
+.subsection-header{
+	font-size: 13pt;
+	border-bottom: 1px solid gray;
+	margin-bottom: 20px;
+}
+
+.subsubsection-header{
+	font-size: 13pt;
+	font-weight: bold;
+}
+
+.page-header{
+	margin-top: 20px;
+	padding: 10px 20px;
+	background-color: #313940;
+	border: 2px #1c2023 solid;
+	color: #dbe4ed;
+}
+
+.page-platinaheader{
+	margin-top: 10px;
+	padding: 10px 10px;
+	background-color: #dfdfdf;
+	border: 2px #344000 solid;
+	color: #0f0f0f;
+}
+
+.page-goldheader{
+	margin-top: 10px;
+	padding: 10px 10px;
+	background-color: #545000;
+	border: 2px #344000 solid;
+	color: #dfdfdf;
+}
+
+.announcement > h5 {
+	text-align: center;
+	margin-top: 3mm;
+	margin-bottom: 10mm;
+}
+
+.announcement ul {
+	list-style-type: none;
+}
+
+/* .announcement ul > li:nth-child(1) {
+	font-weight: bold;
+} */
+
+.page-header-box{
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 15px 20px;
+	margin-top: 20px;
+	background-color: white;
+}
+
+.page-header-box > ul {
+	margin: 0;
+}
+
+#dews-kun{
+	position: absolute;
+	top: 54px;
+	right: 50%;
+	z-index:100;
+	opacity: 0.5;
+}
+
+#dews-kun > img{
+	width: 30px;
+}
+
+.sight-img{
+	height: 150px;
+	float: left;
+	margin-right: 20px;
+}
+
+.map-icon{
+	height: 20px;
+	margin-left: 1em;
+}
+
+.continuous{
+	border-top: 1px grey dashed;
+}
+
+.organization{
+	width: 100%;
+}
+
+.organization > tbody {
+	border-bottom: 1px grey solid;
+}
+
+.organization > tbody > tr {
+	border-top: 1px grey solid;
+}
+
+.organization > tbody > tr > td:nth-child(1) {
+	width: 14em;
+}
+
+.organization > tbody > tr > td:nth-child(2) {
+	border-left: 1px grey solid;
+}
+
+.organization > tbody > tr > td {
+	padding: 1px 1em;
+}
+
+.organization > tbody > .continuous{
+	border-top: 1px #ccc dashed;
+}
+
+.award_table {
+	width: 100%;
+	border-bottom: 1px grey solid;
+	background-color: white;
+}
+
+.award_table > tbody > tr {
+	border-top: 1px grey solid;
+}
+
+.award_table > tbody > tr > td:nth-child(1) {
+	width: 7em;
+	padding-left: 2em;
+}
+
+.award_table > tbody > tr > td:nth-child(3) {
+	padding-right: 2em;
+	padding-left: 2em;
+	width: 45%;
+}
+
+.fee{
+	width: 100%;
+	text-align: center;
+	border-top: 1px grey solid;
+	border-bottom: 1px grey solid;
+	margin-bottom: 15px;
+}
+
+.fee > thead {
+	border-bottom: 1px grey solid;
+}
+
+.fee > thead > tr > th:nth-child(2) {
+	border-left: 1px grey solid;
+}
+
+.fee > thead > tr > th:nth-child(3) {
+	border-left: 1px grey solid;
+}
+
+.fee > tbody > tr > td {
+	padding: 0 2em;
+	border-top: 1px #ccc dashed;
+}
+
+.fee > tbody > tr > td:nth-child(2) {
+	border-left: 1px grey solid;
+}
+
+.fee > tbody > tr > td:nth-child(3) {
+	border-left: 1px grey solid;
+	width: 600px;
+	text-align: left;
+}
+
+.fee > tbody > tr > td > ul {
+	margin: 5px 0px;
+}
+
+.session-table {
+	width: 100%;
+	overflow: scroll;
+	padding: none;
+}
+
+.session-table > table {
+	margin-bottom: 30px;
+	border: 3px grey solid;
+	background-color: white;
+}
+
+.session-table > table > thead > tr > th {
+	text-align: center;
+	border-left:  3px grey solid;
+	border-right: 3px grey solid;
+	border-bottom: 3px grey solid;
+}
+
+.session-table > table > tbody > tr > td {
+	height: 20px;
+}
+
+.session-table > table > tbody > tr > td:nth-last-child(even) {
+	border-left: 3px grey solid;
+}
+
+.session-table_separator {
+	border-top: 3px gray solid;
+	height: 0px;
+}
+
+.session-table_separator > td:nth-child(even){
+	border: none;
+}
+
+.session-table_time {
+	text-align: center;
+	padding: 0px 1em;
+}
+
+.submission_button{
+	text-align: center;
+	margin-top: 20px;
+	width: 100%;
+}
+.submission_button > a{
+	padding: 10px 100px;
+	background-color: #92b1c9;
+	text-decoration: none;
+	font-size: 25pt;
+	width: 100%;
+}
+
+.invited{
+	margin-bottom: 20px;
+}
+
+.invited img {
+	width: 200px;
+	margin: 0px;
+	margin-right: 20px;
+}
+
+.invited td {
+	vertical-align: top;
+}
+
+.talk-list{
+	list-style-type: none;
+}
+
+.talk-list > li{
+	margin-bottom: 10px;
+}
+
+.registration_time {
+	margin-right: 1em;
+	border-bottom: 1px solid black;
+}
+
+.rooms {
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 5px 10px;
+	color: white;
+}
+
+.room_in_table {
+	color: white;
+	text-align: center;
+}
+
+.room_A {
+	background-color: rgb(85, 85, 204);
+}
+
+.room_B {
+	background-color: rgb(85, 138, 204);
+}
+
+.room_C {
+	background-color: rgb(85, 191, 204);
+}
+
+.room_D {
+	background-color: rgb(85, 204, 164);
+}
+
+.room_E {
+	background-color: rgb(85, 204, 111);
+}
+
+.room_F {
+	background-color: rgb(111, 204, 85);
+}
+
+.room_G {
+	background-color: rgb(164, 204, 85);
+}
+
+.room_H {
+	background-color: rgb(204, 191, 85);
+}
+
+.room_I {
+	background-color: rgb(204, 138, 85);
+}
+
+.room_J {
+	background-color: rgb(204, 85, 85);
+}
+
+.room_P {
+	background-color: rgb(204, 85, 164);
+}
+span.hybrid {
+  font-weight: bolder;
+  background: linear-gradient(to right, #f00 0%, #00f 33%, #0A0 66%, #f00 100%) 0% center / 200% auto;
+          background-clip: text;
+  -webkit-background-clip: text;
+          text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+  animation: hybrid 1s linear infinite;
+}
+
+@keyframes hybrid {
+  to { background-position-x: 200%; }
+}
