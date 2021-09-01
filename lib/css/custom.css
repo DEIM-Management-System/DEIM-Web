@@ -5,7 +5,7 @@
  */
 
 body {
-	background-color: #f4f9fd;
+	background-color: #C0EADD;
 }
 
 @media (orientation: landscape) {
@@ -78,8 +78,8 @@ body {
 }
 
 .press_title {
-	border-bottom: solid 5px #00008b;
-	border-right: solid 5px #00008b;
+	border-bottom: solid 5px #356657;
+	border-right: solid 5px #356657;
 	font-size: 20pt;
 	padding-left: 20px;
 }
@@ -141,7 +141,7 @@ body {
 
 .press_fotter {
 	margin-top: 15px;
-	border-top: solid 20px #00008b;
+	border-top: solid 20px #356657;
 	padding-top: 10px;
 }
 .press_fotter .col-sm-6:nth-child(1) {
@@ -158,9 +158,9 @@ body {
 
 
 .banquet {
-	background: -webkit-linear-gradient(0deg, #40E0D0, #FF8C00, #FF0080);
-  -webkit-background-clip: text;//テキストでくり抜く
-  background-clip: text;//テキストでくり抜く
+	background: -webkit-linear-gradient(0deg, #77E6C4, #77E6C4, #77E6C4);
+  -webkit-background-clip: text;
+  background-clip: text;
 	-webkit-text-fill-color: transparent;
 	color: transparent;
 }
@@ -238,7 +238,7 @@ a:hover {
  }
 
 .dropdown-menu {
-	background-color: #5f7281;
+	background-color: #356657;
 }
 .dropdown-item {
 	color: white;
@@ -250,13 +250,13 @@ a:hover {
 
 .py-5{
 	margin-top: 40px;
-	background-color: #48555f;
+	background-color: #356657;
 	font-size: 15pt;
 }
 
 .card-header{
 	font-size: 13pt;
-	background-color: #7190a7;
+	background-color: #356657;
 	color: white;
 }
 
