@@ -459,6 +459,15 @@ a:hover {
 	border-top: 1px #ccc dashed;
 }
 
+.organization_core {
+	width: 100%;
+	table-layout: fixed;
+}
+
+.organization_core img {
+	width: 70%;
+}
+
 .award_table {
 	width: 100%;
 	border-bottom: 1px grey solid;
