@@ -468,6 +468,66 @@ a:hover {
 	width: 70%;
 }
 
+.sponsor h3 {
+	margin-top: 20px;
+	padding: 5px 10px;
+	background-color: #313940;
+	border: 2px #1c2023 solid;
+	color: #dbe4ed;
+	margin-bottom: 15px;
+}
+
+.sponsor h4 {
+	position: relative;
+	padding: 5px 10px;
+}
+
+.sponsor h4::before {
+	content: "";
+	display: inline-block;
+	width: 3px;
+	height: 30px;
+	background-color: green;
+	position: absolute;
+	/*top: -2px;*/
+	left: 5px;
+}
+
+.sponsor_new::after {
+	content: 'NEW!!';
+	color: red;
+}
+
+.sponsor_table {
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	font-size: 120%;
+	margin-bottom: 15px;
+}
+
+.sponsor th, td {
+	padding: 5px;
+}
+.sponspr th {
+	color: #fff;
+	border-bottom: solid 1px #759786;
+}
+.sponsor td {
+	color: #4A6458;
+	border-bottom: solid 1px #A7D2BE;
+}
+.sponsor tr:nth-child(odd) {
+	background: #E7EBE9;
+}
+.sponsor tr:nth-child(even) {
+	background: #F8F8F8;
+}
+.sponsor tr:first-child {
+	background: #8DC4AA;
+}
+
+
 .award_table {
 	width: 100%;
 	border-bottom: 1px grey solid;
