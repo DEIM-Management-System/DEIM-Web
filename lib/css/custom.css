@@ -468,31 +468,6 @@ a:hover {
 	width: 70%;
 }
 
-.sponsor h3 {
-	margin-top: 20px;
-	padding: 5px 10px;
-	background-color: #313940;
-	border: 2px #1c2023 solid;
-	color: #dbe4ed;
-	margin-bottom: 15px;
-}
-
-.sponsor h4 {
-	position: relative;
-	padding: 5px 10px;
-}
-
-.sponsor h4::before {
-	content: "";
-	display: inline-block;
-	width: 3px;
-	height: 30px;
-	background-color: green;
-	position: absolute;
-	/*top: -2px;*/
-	left: 5px;
-}
-
 .sponsor_new::after {
 	content: 'NEW!!';
 	color: red;
