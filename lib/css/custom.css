@@ -445,10 +445,11 @@ a:hover {
 
 .organization > tbody > tr > td:nth-child(1) {
 	width: 14em;
+	<!-- border-left: 1px grey solid;  -->
 }
 
 .organization > tbody > tr > td:nth-child(2) {
-	border-left: 1px grey solid;
+	<!-- border-left: 1px grey solid;  -->
 }
 
 .organization > tbody > tr > td {
