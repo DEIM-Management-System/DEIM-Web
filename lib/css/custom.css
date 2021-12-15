@@ -197,6 +197,29 @@ a:hover {
 	margin: 10px 0px ;
 }
 
+.platinum_logo {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	margin: 10px 0px ;
+}
+
+.gold_logo {
+	margin-left: auto;
+	margin-right: auto;
+	margin: 10px 0px ;
+	margin-top: auto;
+	width:90%;
+}
+
+
+.silver_logo {
+	margin-left: auto;
+	margin-right: auto;
+	width:60%;
+	margin: 10px 0px ;
+}
+
 .kyosan_logo {
 	width: 100%;
 	margin: 10px 0px ;
@@ -445,11 +468,11 @@ a:hover {
 
 .organization > tbody > tr > td:nth-child(1) {
 	width: 14em;
-	<!-- border-left: 1px grey solid;  -->
+	/* border-left: 1px grey solid;*/
 }
 
 .organization > tbody > tr > td:nth-child(2) {
-	<!-- border-left: 1px grey solid;  -->
+	/* border-left: 1px grey solid; */
 }
 
 .organization > tbody > tr > td {
