@@ -588,6 +588,35 @@ a:hover {
 	margin: 5px 0px;
 }
 
+.fee_table {
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	font-size: 120%;
+	margin-bottom: 15px;
+}
+
+.fee_table th, td {
+	padding: 5px;
+}
+.fee_table th {
+	color: #fff;
+	border-bottom: solid 1px #759786;
+}
+.fee_table td {
+	color: #4A6458;
+	border-bottom: solid 1px #A7D2BE;
+}
+.fee_table tr:nth-child(odd) {
+	background: #E7EBE9;
+}
+.fee_table tr:nth-child(even) {
+	background: #F8F8F8;
+}
+.fee_table tr:first-child {
+	background: #8DC4AA;
+}
+
 .session-table {
 	width: 100%;
 	overflow: scroll;
