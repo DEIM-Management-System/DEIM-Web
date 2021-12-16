@@ -237,8 +237,8 @@ a:hover {
 #toppage #center{order:2}
 #toppage #news{order:3}
 @media (max-width: 992px){
-	#toppage #news{order:1}
-	#toppage #center{order:2}
+	#toppage #news{order:2}
+	#toppage #center{order: 1;}
 	#toppage #schedule{order:3}
 }
 
