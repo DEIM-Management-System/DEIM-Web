@@ -554,7 +554,7 @@ a:hover {
 	border-top: 1px grey solid;
 	border-bottom: 1px grey solid;
 	margin-bottom: 15px;
-	margin: auto; /* 中央よせ */ 
+	margin: auto; /* 中央よせ */
 }
 
 .fee > thead {
@@ -765,4 +765,10 @@ span.hybrid {
 
 @keyframes hybrid {
   to { background-position-x: 200%; }
+}
+
+
+span.aword_name{
+	font-weight: bold;
+	color: #356657;
 }
