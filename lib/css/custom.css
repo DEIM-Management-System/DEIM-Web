@@ -778,3 +778,7 @@ span.aword_name{
 	font-weight: bold;
 	color: #356657;
 }
+
+.strong_underline{
+	color: red;
+}
