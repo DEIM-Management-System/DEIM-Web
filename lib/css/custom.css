@@ -373,6 +373,7 @@ a:hover {
 
 .subsection-header{
 	font-size: 13pt;
+	font-weight: bold;
 	border-bottom: 1px solid gray;
 	margin-bottom: 20px;
 }
