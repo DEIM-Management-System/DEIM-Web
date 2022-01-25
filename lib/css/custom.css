@@ -699,6 +699,23 @@ a:hover {
 	margin-bottom: 10px;
 }
 
+.tutorial_table td:nth-child(1) {
+	white-space: nowrap;
+}
+
+.tutorial_table td {
+	color: #4A6458;
+	border-bottom: solid 1px #A7D2BE;
+}
+
+.tutorial_table tr:nth-child(odd) {
+	background: #E7EBE9;
+}
+
+.tutorial_table tr:nth-child(even) {
+	background: #F8F8F8;
+}
+
 .registration_time {
 	margin-right: 1em;
 	border-bottom: 1px solid black;
