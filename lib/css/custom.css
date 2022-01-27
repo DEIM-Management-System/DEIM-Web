@@ -532,6 +532,10 @@ a:hover {
 	background: #8DC4AA;
 }
 
+.sponsor_alt_text {
+	font-size: 250%;
+	height: 200%;
+}
 
 .award_table {
 	width: 100%;
