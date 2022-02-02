@@ -820,3 +820,9 @@ span.aword_name{
 .nightsession_table tr:nth-child(even) {
 	background: #F8F8F8;
 }
+
+span.link-space {
+	position: relative;
+	top: -100px;
+	display: block;
+}
