@@ -800,10 +800,6 @@ span.aword_name{
 	color: #356657;
 }
 
-.strong_red{
-	color: red;
-}
-
 .nightsession_table td:nth-child(1) {
 	white-space: nowrap;
 }
@@ -825,4 +821,13 @@ span.link-space {
 	position: relative;
 	top: -100px;
 	display: block;
+}
+
+.strong_red{
+	color: red;
+}
+
+.strong_notice{
+	font-size: 1.5em;
+	font-weight: bold;
 }
