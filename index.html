@@ -44,6 +44,32 @@
   <!-- Custom styles for this template -->
   <link href="./lib/css/custom.css" rel="stylesheet">
 
+  <!-- Global site tag (gtag.js) - Google Ads: 10850001269 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-10850001269"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-10850001269');
+  </script>
+
+  <!-- Event snippet for 申し込み conversion page
+  In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+  <script>
+    function gtag_report_conversion(url) {
+      var callback = function () {
+        if (typeof(url) != 'undefined') {
+          window.location = url;
+        }
+      };
+      gtag('event', 'conversion', {
+          'send_to': 'AW-10850001269/qY48CKvS6J0DEPXC17Uo',
+          'event_callback': callback
+      });
+      return false;
+    }
+  </script>
 </head>
 
 <body>
@@ -144,7 +170,7 @@
 
     <div class="col-lg-12">
       <p class='submission_button'>
-        <a class='btn btn-outline-secondary' href="https://amarys-jtb.jp/deim2022/" target="_blank" style="background:#056114e5;color:#FFFFFF;border-radius:20px;"><strong>参加登録申し込みサイト</strong> にアクセス
+        <a class='btn btn-outline-secondary' onclick="goog_report_conversion('https://amarys-jtb.jp/deim2022/')" href="https://amarys-jtb.jp/deim2022/" target="_blank" style="background:#056114e5;color:#FFFFFF;border-radius:20px;"><strong>参加登録申し込みサイト</strong> にアクセス
           <svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
               y="0px" width="1em" height="1em" viewBox="0 0 28.35 28.35" enable-background="new 0 0 28.35 28.35"
               xml:space="preserve">
