@@ -769,17 +769,27 @@ a:hover {
 	background-color: rgb(204, 191, 85);
 }
 
-.room_I {
+.room_J {
 	background-color: rgb(204, 138, 85);
 }
 
-.room_J {
+.room_K {
 	background-color: rgb(204, 85, 85);
 }
 
 .room_P {
 	background-color: rgb(204, 85, 164);
 }
+
+.room_I { /* interactive session */
+	background-color: #3d4d5a;
+}
+
+.room_others {
+	background-color: #0f0f0f;
+}
+
+
 span.hybrid {
   font-weight: bolder;
   background: linear-gradient(to right, #f00 0%, #00f 33%, #0A0 66%, #f00 100%) 0% center / 200% auto;
@@ -817,6 +827,7 @@ span.aword_name{
 	background: #F8F8F8;
 }
 
+/* to avoid hiding the top of the content when anchoring with id */
 span.link-space {
 	position: relative;
 	top: -100px;
