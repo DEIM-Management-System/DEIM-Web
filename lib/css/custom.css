@@ -720,6 +720,10 @@ a:hover {
 	background: #F8F8F8;
 }
 
+.tutorial_table img {
+	width: 60%;
+}
+
 .registration_time {
 	margin-right: 1em;
 	border-bottom: 1px solid black;
