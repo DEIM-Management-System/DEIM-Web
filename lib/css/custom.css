@@ -564,6 +564,13 @@ a:hover {
 	background-color: white;
 }
 
+.sponsor_award_table > tbody > tr > td:nth-child(1) {
+	white-space:nowrap;
+}
+.sponsor_award_table > tbody > tr > td:nth-child(2) {
+	white-space:nowrap;
+}
+
 .fee{
 	width: 100%;
 	text-align: center;
