@@ -5,7 +5,7 @@
  */
 
 body {
-	background-color: #C0EADD;
+	background-color: #EBD8ED;
 }
 
 @media (orientation: landscape) {
@@ -78,8 +78,8 @@ body {
 }
 
 .press_title {
-	border-bottom: solid 5px #356657;
-	border-right: solid 5px #356657;
+	border-bottom: solid 5px #543D78;
+	border-right: solid 5px #543D78;
 	font-size: 20pt;
 	padding-left: 20px;
 }
@@ -141,7 +141,7 @@ body {
 
 .press_fotter {
 	margin-top: 15px;
-	border-top: solid 20px #356657;
+	border-top: solid 20px #543D7B;
 	padding-top: 10px;
 }
 .press_fotter .col-sm-6:nth-child(1) {
@@ -186,10 +186,10 @@ body {
 }
 
 a {
-	color: #25795a;
+	color: #543D7B;
 }
 a:hover {
-	color: #25795a;
+	color: #543D7B;
 }
 
 .shusai_logo {
@@ -251,17 +251,17 @@ a:hover {
 }
 
 .navbar{
-	background-color: #48555f;
+	background-color: #543D7B;
 }
 .navbar-dark .navbar-nav .nav-link {
-	color: yellow;
+	color: #BBC1C6;
 }
 .navbar-dark .navbar-nav .nav-link:hover{
-	color: yellow;
+	color: #BBC1C6;
  }
 
 .dropdown-menu {
-	background-color: #356657;
+	background-color: #968EAF;
 }
 .dropdown-item {
 	color: white;
@@ -273,13 +273,13 @@ a:hover {
 
 .py-5{
 	margin-top: 40px;
-	background-color: #356657;
+	background-color: #543D7B;
 	font-size: 15pt;
 }
 
 .card-header{
 	font-size: 13pt;
-	background-color: #356657;
+	background-color: #6D5593;
 	color: white;
 }
 
@@ -301,7 +301,7 @@ a:hover {
 .badge{
 	float:right;
 	display: inline-block;
-	background-color: #fd9;
+	background-color: #FFDF00;
 	border-radius: 10px;
 	padding: 5px 7px;
 	text-align: center;
@@ -357,7 +357,7 @@ a:hover {
 	margin-top: 20px;
 	font-size: 13pt;
 	padding: 5px 10px;
-	background-color: #92b1c9;
+	background-color: #968EAF;
 	color: white;
 }
 
@@ -386,8 +386,8 @@ a:hover {
 .page-header{
 	margin-top: 20px;
 	padding: 10px 20px;
-	background-color: #313940;
-	border: 2px #1c2023 solid;
+	background-color: #6D5593;
+	border: 2px #543D7B solid;
 	color: #dbe4ed;
 }
 
