@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+<url>
+  <loc>https://event.dbsj.org/deim2023/</loc>
+  <priority>1.0</priority>
+  <lastmod>2022-11-22T14:34:29+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://event.dbsj.org/deim2023/index.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2022-11-22T14:34:29+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://event.dbsj.org/deim2023/post/abst.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2022-11-17T10:53:20+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://event.dbsj.org/deim2023/post/submission.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2022-11-14T18:26:36+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://event.dbsj.org/deim2023/post/tutorial_call.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2022-11-14T18:26:36+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://event.dbsj.org/deim2023/post/sponsor.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2022-11-14T18:26:36+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://event.dbsj.org/deim2023/post/organization.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2022-11-14T18:26:36+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://event.dbsj.org/deim2023/post/past.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2022-11-14T18:26:36+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+
+</urlset>
