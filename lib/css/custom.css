@@ -623,12 +623,12 @@ a:hover {
 	padding: 5px;
 }
 .fee_table th {
-	color: #fff;
-	border-bottom: solid 1px #759786;
+	color: #64644a;
+	border-bottom: solid 1px #979575;
 }
 .fee_table td {
-	color: #4A6458;
-	border-bottom: solid 1px #A7D2BE;
+	color: #64644a;
+	border-bottom: solid 1px #d2cea7;
 }
 .fee_table tr:nth-child(odd) {
 	background: #E7EBE9;
@@ -637,7 +637,7 @@ a:hover {
 	background: #F8F8F8;
 }
 .fee_table tr:first-child {
-	background: #8DC4AA;
+	background: #f4fcb1;
 }
 
 .session-table {
