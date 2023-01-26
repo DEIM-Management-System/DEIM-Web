@@ -511,24 +511,24 @@ a:hover {
 	margin-bottom: 15px;
 }
 
-.sponsor th, td {
+.sponsor_table th, td {
 	padding: 5px;
 }
-.sponsor th {
+.sponsor_table th {
 	color: #64644a;
 	border-bottom: solid 1px #979575;
 }
-.sponsor td {
+.sponsor_table td {
 	color: #64644a;
 	border-bottom: solid 1px #d2cea7;
 }
-.sponsor tr:nth-child(odd) {
+.sponsor_table tr:nth-child(odd) {
 	background: #E7EBE9;
 }
-.sponsor tr:nth-child(even) {
+.sponsor_table tr:nth-child(even) {
 	background: #F8F8F8;
 }
-.sponsor tr:first-child {
+.sponsor_table tr:first-child {
 	background: #f4fcb1;
 }
 
@@ -714,6 +714,16 @@ a:hover {
 
 .talk-list > li{
 	margin-bottom: 10px;
+}
+
+.tutorial_table {
+	width: 100%;
+}
+
+.tutorial_table th {
+	padding: 5px;
+	text-align: center;
+	background-color: #f4fcb1;
 }
 
 .tutorial_table td:nth-child(1) {
