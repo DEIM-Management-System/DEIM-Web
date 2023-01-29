@@ -506,7 +506,7 @@ a:hover {
 .sponsor_table {
 	margin-left: auto;
 	margin-right: auto;
-	width: 80%;
+	width: 100%;
 	font-size: 120%;
 	margin-bottom: 15px;
 }
@@ -718,6 +718,7 @@ a:hover {
 
 .tutorial_table {
 	width: 100%;
+	margin-bottom: 15px;
 }
 
 .tutorial_table th {
