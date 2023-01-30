@@ -5,55 +5,67 @@
 <url>
   <loc>https://event.dbsj.org/deim2023/</loc>
   <priority>1.0</priority>
-  <lastmod>2022-12-15T15:13:56+09:00</lastmod>
+  <lastmod>2023-01-30T09:25:14+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/index.html</loc>
   <priority>0.8</priority>
-  <lastmod>2022-12-15T15:13:56+09:00</lastmod>
+  <lastmod>2023-01-30T09:25:14+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/abst.html</loc>
   <priority>0.8</priority>
-  <lastmod>2022-12-15T15:13:56+09:00</lastmod>
+  <lastmod>2023-01-30T08:45:19+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/submission.html</loc>
   <priority>0.8</priority>
-  <lastmod>2022-12-15T15:13:56+09:00</lastmod>
+  <lastmod>2023-01-30T08:45:19+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/tutorial_call.html</loc>
   <priority>0.8</priority>
-  <lastmod>2022-12-15T15:13:56+09:00</lastmod>
+  <lastmod>2023-01-30T09:25:14+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://event.dbsj.org/deim2023/post/tutorial.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-01-30T09:25:14+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://event.dbsj.org/deim2023/post/attend.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-01-30T08:45:19+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/program.html</loc>
   <priority>0.8</priority>
-  <lastmod>2022-12-15T15:13:56+09:00</lastmod>
+  <lastmod>2023-01-30T08:45:19+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/sponsor.html</loc>
   <priority>0.8</priority>
-  <lastmod>2022-12-15T15:13:56+09:00</lastmod>
+  <lastmod>2023-01-30T08:45:19+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/organization.html</loc>
   <priority>0.8</priority>
-  <lastmod>2022-12-15T15:13:56+09:00</lastmod>
+  <lastmod>2023-01-30T08:45:19+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/past.html</loc>
   <priority>0.8</priority>
-  <lastmod>2022-12-15T15:13:56+09:00</lastmod>
+  <lastmod>2023-01-30T08:45:19+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 
