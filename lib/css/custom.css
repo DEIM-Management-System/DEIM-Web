@@ -640,6 +640,36 @@ a:hover {
 	background: #f4fcb1;
 }
 
+.bus_table {
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	font-size: 120%;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+.bus_table th, td {
+	padding: 5px;
+}
+.bus_table th {
+	color: #64644a;
+	border-bottom: solid 1px #979575;
+}
+.bus_table td {
+	color: #64644a;
+	border-bottom: solid 1px #d2cea7;
+}
+.bus_table tr:nth-child(odd) {
+	background: #E7EBE9;
+}
+.bus_table tr:nth-child(even) {
+	background: #F8F8F8;
+}
+.bus_table tr:first-child {
+	background: #f4fcb1;
+}
+
 .session-table {
 	width: 100%;
 	overflow: scroll;
