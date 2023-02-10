@@ -225,6 +225,66 @@ a:hover {
 	margin: 10px 0px ;
 }
 
+/*各社ロゴの余白やサイズのばらつきを調整*/
+/*プラチナ*/
+.line_logo {
+	width: 85%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.hitachi_logo {
+	width: 130%;
+	margin-left: -50px;
+}
+
+.nec_logo {
+	width: 90%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.recruit_logo {
+	width: 150%;
+	margin-left: -65px;
+	margin-top: -90px;
+	margin-bottom: -80px;
+}
+
+.scalar_logo {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.layerx_logo {
+	width: 120%;
+	margin-left: -40px;
+}
+
+.dmm_logo {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.aws_logo {
+	width: 70%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+/*ゴールド*/
+.fujitsu_logo {
+	width: 65%;
+}
+
+.nttdata_logo {
+	margin-bottom: -8px;
+}
+
+.wantedly_logo {
+	margin-top: 10px;
+}
+
 #center .row {
 	font-size: 10pt;
 }
