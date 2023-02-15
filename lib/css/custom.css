@@ -285,6 +285,11 @@ a:hover {
 	margin-top: 10px;
 }
 
+/*シルバー*/
+.issin_logo {
+	width: 30%;
+}
+
 #center .row {
 	font-size: 10pt;
 }
