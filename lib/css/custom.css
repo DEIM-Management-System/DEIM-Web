@@ -275,6 +275,10 @@ a:hover {
 /*ゴールド*/
 .fujitsu_logo {
 	width: 65%;
+	margin-top: 10px;
+	/*height: 65%;
+	margin-top: 10px;
+	margin-bottom: -70px;*/
 }
 
 .nttdata_logo {
@@ -283,6 +287,19 @@ a:hover {
 
 .wantedly_logo {
 	margin-top: 10px;
+}
+
+.legalon_logo {
+	margin-top: 10px;
+	height: 78%;
+}
+
+.rakuten_logo {
+	margin-top: 10px;
+}
+
+.yahoo_logo {
+	margin-top: 5px;
 }
 
 /*シルバー*/
