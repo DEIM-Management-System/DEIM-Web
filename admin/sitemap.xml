@@ -5,85 +5,103 @@
 <url>
   <loc>https://event.dbsj.org/deim2023/</loc>
   <priority>1.0</priority>
-  <lastmod>2023-02-15T13:59:16+09:00</lastmod>
+  <lastmod>2023-02-28T16:35:07+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/index.html</loc>
   <priority>0.8</priority>
-  <lastmod>2023-02-15T13:59:16+09:00</lastmod>
+  <lastmod>2023-02-28T16:35:07+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/abst.html</loc>
   <priority>0.8</priority>
-  <lastmod>2023-02-15T13:59:16+09:00</lastmod>
+  <lastmod>2023-02-28T16:35:07+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/submission.html</loc>
   <priority>0.8</priority>
-  <lastmod>2023-02-15T13:59:16+09:00</lastmod>
+  <lastmod>2023-02-28T16:35:07+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/presentation.html</loc>
   <priority>0.8</priority>
-  <lastmod>2023-02-15T13:59:16+09:00</lastmod>
+  <lastmod>2023-02-28T16:35:07+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/tutorial_call.html</loc>
   <priority>0.8</priority>
-  <lastmod>2023-02-15T13:59:16+09:00</lastmod>
+  <lastmod>2023-02-28T16:35:07+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/tutorial.html</loc>
   <priority>0.8</priority>
-  <lastmod>2023-02-15T13:59:16+09:00</lastmod>
+  <lastmod>2023-02-28T16:35:07+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/attend.html</loc>
   <priority>0.8</priority>
-  <lastmod>2023-02-15T13:59:16+09:00</lastmod>
+  <lastmod>2023-02-28T16:35:07+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/attend-zoomevents.html</loc>
   <priority>0.8</priority>
-  <lastmod>2023-02-15T13:59:16+09:00</lastmod>
+  <lastmod>2023-02-28T16:35:07+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/program.html</loc>
   <priority>0.8</priority>
-  <lastmod>2023-02-15T13:59:16+09:00</lastmod>
+  <lastmod>2023-02-28T16:35:07+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://event.dbsj.org/deim2023/post/program_interactive.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-02-28T16:35:07+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/event_networking.html</loc>
   <priority>0.8</priority>
-  <lastmod>2023-02-15T13:59:16+09:00</lastmod>
+  <lastmod>2023-02-28T16:35:07+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://event.dbsj.org/deim2023/post/event_nightsession.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-02-28T16:35:07+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/sponsor.html</loc>
   <priority>0.8</priority>
-  <lastmod>2023-02-15T13:59:16+09:00</lastmod>
+  <lastmod>2023-02-28T16:35:07+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/organization.html</loc>
   <priority>0.8</priority>
-  <lastmod>2023-02-15T13:59:16+09:00</lastmod>
+  <lastmod>2023-02-28T16:35:07+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://event.dbsj.org/deim2023/post/past.html</loc>
   <priority>0.8</priority>
-  <lastmod>2023-02-15T13:59:16+09:00</lastmod>
+  <lastmod>2023-02-28T16:35:07+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://event.dbsj.org/deim2023/post/tutorial/deim2023_tutorial_T2.pdf</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-02-21T10:56:54+09:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 
