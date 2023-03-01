@@ -428,6 +428,7 @@ a:hover {
 .title{
 	margin-top: 30px;
 	font-size: 120%;
+	font-weight: bold;
 }
 
 .subtitle{
